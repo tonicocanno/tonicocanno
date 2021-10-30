@@ -1,8 +1,3 @@
-<p>
-<img src="https://user-images.githubusercontent.com/69996623/126828146-10ea6e26-0de5-42c7-9fad-37474c3df3c9.png" />
-</p>
-
-
 [![Github Badge](https://img.shields.io/badge/-Github-242A2D?style=flat-square&logo=Github&logoColor=white&link=https://github.com/tonicocanno)](https://github.com/tonicocanno)
 [![Linkedin Badge](https://img.shields.io/badge/-Linkedin-0077B5?style=flat-square&logo=Linkedin&logoColor=white&link=https://www.linkedin.com/in/antonio-canno/)](https://www.linkedin.com/in/antonio-canno/) 
 [![Gmail Badge](https://img.shields.io/badge/Gmail-c5392a?style=flat-square&logo=Gmail&logoColor=white&link=mailto:antonio.canno257@gmail.com)](mailto:antonio.canno257@gmail.com)
@@ -12,7 +7,6 @@
 
 - 🍞 I'm food technician
 - 👨‍💻 I'm Currently studying computer engineering
-- 💖 I like to create things that inspire people
 - 🏠 Alumínio, SP - Brazil
 
 ----
